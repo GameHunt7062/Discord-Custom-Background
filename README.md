@@ -13,10 +13,7 @@
 
 </div>
 
-<!--
-Add a screenshot or GIF here after you publish:
-<p align="center"><img src="docs/preview.png" alt="Preview" width="800"></p>
--->
+   <p align="center"><img src="docs/preview.png" alt="Preview" width="800"></p>
 
 ---
 
