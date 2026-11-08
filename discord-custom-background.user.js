@@ -2,12 +2,12 @@
 // @name         Discord Custom Background
 // @namespace    http://tampermonkey.net/
 // @version      5.0.1
-// @author       rawmearzu
+// @author       GameHunt7062
 // @license      MIT
-// @homepageURL  https://github.com/rawmearzu/Discord-Custom-Background
-// @supportURL   https://github.com/rawmearzu/Discord-Custom-Background/issues
-// @downloadURL  https://raw.githubusercontent.com/rawmearzu/Discord-Custom-Background/main/discord-custom-background.user.js
-// @updateURL    https://raw.githubusercontent.com/rawmearzu/Discord-Custom-Background/main/discord-custom-background.user.js
+// @homepageURL  https://github.com/GameHunt7062/Discord-Custom-Background
+// @supportURL   https://github.com/GameHunt7062/Discord-Custom-Background/issues
+// @downloadURL  https://raw.githubusercontent.com/GameHunt7062/Discord-Custom-Background/main/discord-custom-background.user.js
+// @updateURL    https://raw.githubusercontent.com/GameHunt7062/Discord-Custom-Background/main/discord-custom-background.user.js
 // @description  Image/GIF/video backgrounds for Discord with uniform panel opacity, a saved library, drag & drop, zoom and rotation. Performance-tuned.
 // @match        https://discord.com/*
 // @match        https://ptb.discord.com/*
@@ -19,9 +19,9 @@
 
 /*!
  * Discord Custom Background
- * Copyright (c) 2026 rawmearzu
+ * Copyright (c) 2026 GameHunt7062
  * Released under the MIT License.
- * https://github.com/rawmearzu/Discord-Custom-Background
+ * https://github.com/GameHunt7062/Discord-Custom-Background
  *
  * Not affiliated with or endorsed by Discord Inc.
  */
@@ -34,8 +34,8 @@
    * ------------------------------------------------------------------ */
   const APP_NAME = "Discord Custom Background";
   const VERSION = "5.0.1";
-  const AUTHOR = "rawmearzu";
-  const REPO_URL = "https://github.com/rawmearzu/Discord-Custom-Background";
+  const AUTHOR = "GameHunt7062";
+  const REPO_URL = "https://github.com/GameHunt7062/Discord-Custom-Background";
 
   const NS = "cbg";
   const STYLE_ID = `${NS}-style`;
