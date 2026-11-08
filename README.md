@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-5.0.1-5865F2.svg)](https://github.com/gamehunt7062/discord-custom-background)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-userscript-orange.svg)](#ways-to-use-it)
-[![Stars](https://img.shields.io/github/stars/gamehunt7062/discord-custom-background?style=flat&color=yellow)](https://github.com/GameHunt7062/Discord-Custom-Background/stargazers)
+[![Stars](https://img.shields.io/github.com/GameHunt7062/Discord-Custom-Background?style=flat&color=yellow)](https://github.com/GameHunt7062/Discord-Custom-Background/stargazers)
 
 [Install](#installation) · [Features](#features) · [How to use](#using-the-panel) · [Troubleshooting](#troubleshooting) · [Contributing](#contributing)
 
