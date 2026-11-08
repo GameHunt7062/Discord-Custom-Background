@@ -264,7 +264,7 @@ The script does not collect, send or share any data. Everything is stored locall
 
 Each browser, and each Discord app (Stable, PTB and Canary), keeps its **own** separate storage. A library created in one is not visible in the others.
 
-## Troubleshooting
+## [Troubleshooting](https://discord.com/invite/3MJAYraXu8)
 
 | Problem | What to try |
 | --- | --- |
@@ -333,4 +333,4 @@ Changing the Discord client, even only its appearance, may go against Discord's 
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright © 2026 gamehunt7062.
+Released under the [MIT License](LICENSE). Copyright © 2026 gamehunt7062. [Support Server](https://discord.com/invite/3MJAYraXu8)
